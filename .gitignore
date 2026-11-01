@@ -1,0 +1,10 @@
+fraudTrain.csv
+fraudTest.csv
+fraud_model.pkl
+venv/
+pycache/
+node_modules/
+dist/
+.env
+.ipynb_checkpoints/
+*.pyc
