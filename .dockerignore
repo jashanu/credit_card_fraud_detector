@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+frontend/
+fraudTrain.csv
+fraudTest.csv
+explore.ipynb
+.git/
+.ipynb_checkpoints/
